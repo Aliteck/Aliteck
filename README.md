@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aliteck
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front End 
-- 💞️ I’m looking to collaborate on people that sharing the same interest
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me : 
 
 
